@@ -18,6 +18,7 @@
 ## CCSK
 # -Custom-
 ## AWS-SEC
+* https://github.com/deanbushmiller/aws-sec-e11
 ## ATTACK
 ## SEC-ARCH
 # -NICCS-
